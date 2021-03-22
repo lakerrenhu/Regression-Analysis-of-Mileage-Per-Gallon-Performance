@@ -1,0 +1,2 @@
+# Regression-Analysis-of-Mileage-Per-Gallon-Performance
+This project focuses on the mileage per gallon performance(MPG) for various vehicles. The multiple linear regression approach is introduced to fit the model. Before modelling data set cleaning is performed firstly, followed by statistical descriptions,correlation computation and feature selection. Eventually, the experimental data analysis for 392 samples indicated that the response(MPG) do have a linear relationship with these predictors, and the predictors(model.year and origin) do have significant influence on MPG.
